@@ -10,6 +10,7 @@ namespace algo_studying_izhar_mashkif
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Israel");
         }
     }
 }
